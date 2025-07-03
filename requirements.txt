@@ -1,8 +1,7 @@
-streamlit
-streamlit-lottie
-tensorflow==2.12.0
-keras
+tensorflow==2.13.0
+streamlit==1.46.1
+streamlit-lottie==0.0.5
 pillow
-numpy
-pandas
 scikit-learn
+matplotlib
+opencv-python
