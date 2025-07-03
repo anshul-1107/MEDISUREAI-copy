@@ -1,6 +1,6 @@
 streamlit
 streamlit-lottie
-tensorflow
+tensorflow==2.12.0
 keras
 pillow
 numpy
